@@ -1,0 +1,7 @@
+{
+  "name": "EduPulse - Student Management System",
+  "description": "A comprehensive Student Management System with Role-Based Access Control, Attendance Tracking, Academic Lifecycle & GPA calculator, Assignment Portal, and Gemini AI-powered Performance Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
